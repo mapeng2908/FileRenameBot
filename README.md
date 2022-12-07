@@ -1,13 +1,13 @@
 # - File Rename Bot
 
 <p align="center">
-  <a href="https://github.com/No-OnE-Kn0wS-Me/FileRenameBot/stargazers">
-    <img src="https://img.shields.io/github/stars/No-OnE-Kn0wS-Me/FileRenameBot?style=social">
+  <a href="https://github.com/mapeng2908/FileRenameBot/stargazers">
+    <img src="https://img.shields.io/github/stars/mapeng2908/FileRenameBot?style=social">
 
   </a>
   
-  <a href="https://github.com/No-OnE-Kn0wS-Me/FileRenameBot/fork">
-    <img src="https://img.shields.io/github/forks/No-OnE-Kn0wS-Me/FileRenameBot?label=Fork&style=social">
+  <a href="https://github.com/mapeng2908/FileRenameBot/fork">
+    <img src="https://img.shields.io/github/forks/mapeng2908/FileRenameBot?label=Fork&style=social">
 
   </a>  
 </p>
@@ -29,7 +29,7 @@
 
 # Deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mapeng2908/FileRenameBot)
 
 # Required Strings :-
 
